@@ -7,5 +7,5 @@ The data and checkpoints can be found on the [project website](https://www.matth
 
 ## Requirements
 
-* jax==0.1.67
+* jax==0.2.1
 * jaxlib=0.1.55
